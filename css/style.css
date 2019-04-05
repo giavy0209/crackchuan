@@ -240,6 +240,9 @@ header .container{
     color: #cb672e;
     padding: 10px 0;
 }
+.title p{
+    font-size: 20px;
+}
 .download-button{
     margin: 10px auto;
     border: 1px solid rgba(0,0,0,0.7);
@@ -277,6 +280,8 @@ header .container{
     font-size: 20px;
     display: block;
     transition: all .3s;
+    text-transform: uppercase;
+    text-align: center;
 }
 .chose-version a:hover{
     color: #cb672e;
